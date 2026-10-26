@@ -12,3 +12,13 @@ performs exact word lookups, and uses fuzzy string matching to suggest alternati
 Enter Word: rain
 
 ['Precipitation falling from clouds.']
+
+Enter Word: rainn
+
+Did you mean 'rain' instead? Enter Y for yes, or N for no: Y
+
+['Precipitation falling from clouds.']
+
+Enter Word: xyzabc
+
+Word not found!
